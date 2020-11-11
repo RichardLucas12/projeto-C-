@@ -1,0 +1,13 @@
+C:\Users\Richard\Desktop\projeto-C-\bin\Debug\netcoreapp3.1\projeto-C-.exe
+C:\Users\Richard\Desktop\projeto-C-\bin\Debug\netcoreapp3.1\projeto-C-.deps.json
+C:\Users\Richard\Desktop\projeto-C-\bin\Debug\netcoreapp3.1\projeto-C-.runtimeconfig.json
+C:\Users\Richard\Desktop\projeto-C-\bin\Debug\netcoreapp3.1\projeto-C-.runtimeconfig.dev.json
+C:\Users\Richard\Desktop\projeto-C-\bin\Debug\netcoreapp3.1\projeto-C-.dll
+C:\Users\Richard\Desktop\projeto-C-\bin\Debug\netcoreapp3.1\projeto-C-.pdb
+C:\Users\Richard\Desktop\projeto-C-\obj\Debug\netcoreapp3.1\projeto-C-.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\projeto-C-\obj\Debug\netcoreapp3.1\projeto-C-.AssemblyInfoInputs.cache
+C:\Users\Richard\Desktop\projeto-C-\obj\Debug\netcoreapp3.1\projeto-C-.AssemblyInfo.cs
+C:\Users\Richard\Desktop\projeto-C-\obj\Debug\netcoreapp3.1\projeto-C-.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\projeto-C-\obj\Debug\netcoreapp3.1\projeto-C-.dll
+C:\Users\Richard\Desktop\projeto-C-\obj\Debug\netcoreapp3.1\projeto-C-.pdb
+C:\Users\Richard\Desktop\projeto-C-\obj\Debug\netcoreapp3.1\projeto-C-.genruntimeconfig.cache
